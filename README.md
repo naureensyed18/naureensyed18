@@ -5,11 +5,15 @@ Hi there! I'm Naureen, a passionate developer with a love for building clean, ef
 
 ## 🔧 Tech Stack:
 
-Languages: JavaScript | Python | JavaScript | C++ | C |
+• Languages: JavaScript, Python, SQL, HTML, CSS
 
-Frameworks: React | Flask |
+• Frameworks/Libraries: ReactJS, Flask, NodeJS
 
-Tools: Git | Docker | VS Code | Linux | 
+• Tools & Platforms: Git, GitHub, Linux, MySQL, MongoDB
+
+• Other: Agile (Scrum), Unit Testing (basic), PyTest, CI/CD(Basic)
+
+• Concepts: Data Structures & Algorithms, Object-Oriented Design, REST APIs, Multithreading, Distributed Systems
 
 ---
 
