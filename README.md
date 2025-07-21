@@ -31,4 +31,4 @@ Hi there! I'm Naureen, a passionate developer with a love for building clean, ef
 
 Email: [naureensyedd@gmail.com]
 
-LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/naureen-syed-574a33212/)]
+LinkedIn: [[linkedin.com/in/naureen-syed-574a33212](https://www.linkedin.com/in/naureen-syed-574a33212/)]
