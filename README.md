@@ -1,34 +1,55 @@
 # 👋 About Me
 
-Hi there! I'm Naureen, a passionate developer with a love for building clean, efficient, and impactful software. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
----
+Hi, I'm Naureen — an Associate AI Product Manager with a strong engineering background, focused on building AI, data, and enterprise products.
 
-## 🔧 Tech Stack:
-
-• Languages: JavaScript, Python, SQL, HTML, CSS
-
-• Frameworks/Libraries: ReactJS, Flask, NodeJS
-
-• Tools & Platforms: Git, GitHub, Linux, MySQL, MongoDB
-
-• Other: Agile (Scrum), Unit Testing (basic), PyTest, CI/CD(Basic)
-
-• Concepts: Data Structures & Algorithms, Object-Oriented Design, REST APIs, Multithreading, Distributed Systems
+I enjoy translating complex business problems into clear product requirements, scalable workflows, and measurable outcomes. My experience spans GenAI, RAG, APIs, data platforms, automation, and cross-functional product delivery.
 
 ---
 
-## 📈 I'm currently:
+## 🚀 What I Work On
 
-1. Working at TCS
-
-2. 🌱 Learning AWS
-
-3. 🤝 Open to collaboration on open-source projects or freelance opportunities
+• AI & GenAI Products  
+• Product Strategy & Requirements  
+• PRDs, User Stories & Acceptance Criteria  
+• Feature Prioritization & Product Backlogs  
+• Product Metrics & Data Analysis  
+• Enterprise Platforms & Workflow Automation  
+• APIs, Integrations & Technical Product Design  
 
 ---
 
-## 📫 How to reach me:
+## 🧠 AI & Technical Stack
 
-Email: [naureensyedd@gmail.com]
+**AI / Product:** LLMs, RAG, Prompt Engineering, Conversational AI, Semantic Search, Embeddings
 
-LinkedIn: [[linkedin.com/in/naureen-syed-574a33212](https://www.linkedin.com/in/naureensyed18/)]
+**Languages:** Python, SQL, JavaScript
+
+**Frameworks / APIs:** FastAPI, Flask, React, REST APIs
+
+**Data & Platforms:** Databricks, Power BI, ServiceNow, Salesforce, MySQL, MongoDB
+
+**Tools:** Azure DevOps, Git, GitHub, Docker
+
+**Ways of Working:** Agile, Sprint Planning, Backlog Refinement, UAT, Release Coordination, Stakeholder Management
+
+---
+
+## 💼 Currently
+
+• Associate AI Product Manager at TCS  
+• Building and working on AI-powered enterprise products and automation  
+• Exploring zero-to-one product ideas across AI, CareerTech, FinTech, and EdTech  
+• Building product case studies such as **CareerOS** and **Nudge**
+
+---
+
+## 🎯 Areas of Interest
+
+AI Product Management · Technical Product Management · GenAI · Data Products · Enterprise SaaS · Agentic AI
+
+---
+
+## 📫 Connect With Me
+
+**Email:** naureensyedd@gmail.com  
+**LinkedIn:** [linkedin.com/in/naureensyed18](https://www.linkedin.com/in/naureensyed18/)
